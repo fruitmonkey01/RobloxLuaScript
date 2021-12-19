@@ -1,10 +1,9 @@
+![alt screenUI](https://github.com/fruitmonkey01/RobloxLuaScript/blob/main/RobloxGame.png)
+(Source: Lua script used for scene: Roblox Suburban Place Template)
+
 Date: December 16, 2021
 Environment: Mac OSX with Roblox Studio
 Roblox Game scene: The Suburban Place template
-
-Screen UI:
-![alt screenUI](https://github.com/fruitmonkey01/RobloxLuaScript/blob/main/RobloxGame.png)
-
 
 Lua Script with following functions:
 1. Display information to the player with "GuiService" and Text, BackgroundTransparency
