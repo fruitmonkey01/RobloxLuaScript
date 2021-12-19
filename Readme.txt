@@ -3,7 +3,8 @@ Environment: Mac OSX with Roblox Studio
 Roblox Game scene: The Suburban Place template
 
 Screen UI:
-![alt ScreenImage](https://github.com/fruitmonkey01/RobloxLuaScript/blob/main/RobloxGame.png)
+![alt RobloxGameUI](https://github.com/fruitmonkey01/RobloxLuaScript/blob/main/RobloxGame.png)
+
 
 Lua Script with following functions:
 1. Display information to the player with "GuiService" and Text, BackgroundTransparency
