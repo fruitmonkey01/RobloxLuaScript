@@ -3,7 +3,7 @@ Environment: Mac OSX with Roblox Studio
 Roblox Game scene: The Suburban Place template
 
 Screen UI:
-![alt RobloxGameUI](https://github.com/fruitmonkey01/RobloxLuaScript/blob/main/RobloxGame.png)
+![alt screenUI](https://github.com/fruitmonkey01/RobloxLuaScript/blob/main/RobloxGame.png)
 
 
 Lua Script with following functions:
